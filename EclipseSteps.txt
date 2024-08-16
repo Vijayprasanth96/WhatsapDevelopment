@@ -1,4 +1,4 @@
-Step 1: Install Eclipse IDE
+Step 1: Install Eclipse IDe
 Download Eclipse: Go to the Eclipse official website and download the latest version of Eclipse IDE for your operating system.
 Install Eclipse: Run the installer and follow the instructions to install Eclipse on your machine.
 Step 2: Set Up a Workspace
@@ -17,3 +17,4 @@ Select New > Class (for Java) or Other > File for other file types.
 Enter the file name and click Finish.
 Step 5: Write Code
 Write Your Code: The editor window will open the new file where you can start writing your code.
+Run the program "Hello"
