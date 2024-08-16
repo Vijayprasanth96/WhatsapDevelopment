@@ -1,0 +1,19 @@
+Step 1: Install Eclipse IDE
+Download Eclipse: Go to the Eclipse official website and download the latest version of Eclipse IDE for your operating system.
+Install Eclipse: Run the installer and follow the instructions to install Eclipse on your machine.
+Step 2: Set Up a Workspace
+Launch Eclipse: Open Eclipse after installation.
+Select a Workspace: When prompted, choose or create a workspace. This is the directory where your projects will be stored.
+Step 3: Create a New Project
+Create a New Project:
+Go to File > New > Project....
+Choose the type of project you want to create (e.g., Java Project, JavaScript Project, etc.).
+Click Next and enter the project name.
+Click Finish.
+Step 4: Create a New File
+Create a New File:
+Right-click on the src folder in your project in the Project Explorer pane.
+Select New > Class (for Java) or Other > File for other file types.
+Enter the file name and click Finish.
+Step 5: Write Code
+Write Your Code: The editor window will open the new file where you can start writing your code.
